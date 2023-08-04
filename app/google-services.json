@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895265456109",
+    "project_id": "chatbae-6d0b8",
+    "storage_bucket": "chatbae-6d0b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895265456109:android:be109f48d39f872df531e4",
+        "android_client_info": {
+          "package_name": "com.example.chatbae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895265456109-9ek9r6ra90gp99d260blrcvue26ui5dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXk-T1EuD4oaAu0_CDDFdsSI5G4bLoKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895265456109-9ek9r6ra90gp99d260blrcvue26ui5dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
